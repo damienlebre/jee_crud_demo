@@ -8,6 +8,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <header>
     <header class="page-header">
-        <img width="100%" height="80px" src="images/header.png">
     </header>
 </header>
